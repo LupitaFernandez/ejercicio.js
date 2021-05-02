@@ -12,42 +12,43 @@
      "estado": "pendiente"
     },
     {
-     "titulo": "AAAA",
+     "titulo": "Hacer la comida",
      "estado": "terminada"
     },
     {
-     "titulo": "BBBB",
+     "titulo": "Estudiar",
      "estado": "en progreso"
     },
     {
-     "titulo": "CCCC",
+     "titulo": "Hacer el pedido del super",
      "estado": "pendiente"
     },
     {
-     "titulo": "Titulo",
+     "titulo": "Darle de comer a los gatos",
      "estado": "pendiente"
     },
     {
-     "titulo": "Titulo 2",
+     "titulo": "Ordenar la habitación",
      "estado": "pendiente"
     },
     {
-     "titulo": "Titulo 2",
+     "titulo": "Pagar el cable",
+     "estado": "terminada"
+    },
+    {
+     "titulo": "Llamar a Mari",
      "estado": "pendiente"
     },
     {
-     "titulo": "Titulo 2",
+     "titulo": "Jugar al tejo",
+     "estado": "terminada"
+    },
+    {
+        "titulo": "Mirar videos en YouTube",
      "estado": "pendiente"
     },
     {
-     "titulo": "jugar al tejo",
-     "estado": "pendiente"
-    },
-    {
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "comer",
-     "estado": "pendiente"
+     "titulo": "Llamar al doctor",
+     "estado": "en proceso"
     }
-   ]
+]
