@@ -1,54 +1,14 @@
 [
     {
-     "titulo": "Repasar JS",
-     "estado": "terminada"
+        "titulo": "Repasar JS",
+        "estado": "terminada"
     },
     {
-     "titulo": "Armar aplicación de Tareas",
-     "estado": "en progreso"
+        "titulo": "Armar aplicación de Tareas",
+        "estado": "en progreso"
     },
     {
-     "titulo": "Break",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Hacer la comida",
-     "estado": "terminada"
-    },
-    {
-     "titulo": "Estudiar",
-     "estado": "en progreso"
-    },
-    {
-     "titulo": "Hacer el pedido del super",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Darle de comer a los gatos",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Ordenar la habitación",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Pagar el cable",
-     "estado": "terminada"
-    },
-    {
-     "titulo": "Llamar a Mari",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Jugar al tejo",
-     "estado": "terminada"
-    },
-    {
-        "titulo": "Mirar videos en YouTube",
-     "estado": "pendiente"
-    },
-    {
-     "titulo": "Llamar al doctor",
-     "estado": "en proceso"
+        "titulo": "Break",
+        "estado": "pendiente"
     }
 ]
