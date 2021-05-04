@@ -25,6 +25,7 @@ switch(comandoDelUsuario) {
         if (nuevoTitulo == undefined){
             console.log("Tenes que escribir un titulo");
             break;
+            
         }
         let nuevaTarea = {
             titulo: nuevoTitulo,
